@@ -1,0 +1,14 @@
+
+.Backgroud {
+    color: white;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.Backgroud:hover {
+    opacity: 1;
+}
+
+.Text {
+    text-align: left;
+}
